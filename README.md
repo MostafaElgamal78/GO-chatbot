@@ -1,5 +1,5 @@
 # 🗨️ Go RPC Chat Application
-
+[Watch the Video Demo (OneDrive)](https://fengtantaedu-my.sharepoint.com/:v:/g/personal/ug_31093282_f-eng_tanta_edu_eg/EaKS0LXj3NFKr1jFB975et4B61xwThKKVFGB9ouvob2Zeg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=q7KePZ)
 A simple command-line chat system built using Go's **net/rpc** package.
 It demonstrates client-server communication, concurrency, and basic synchronization using mutexes.
 
